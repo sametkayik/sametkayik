@@ -1,7 +1,7 @@
 # Hi 👋, I'm Samet  
   
 
-- 🔭 I’m currently working on [E-Commerce-Backend](https://github.com/sametkayik/e-commerce-backend), along with a number of other repositories that I'm working on behind the scenes."
+- 🔭 I’m currently working on [E-Commerce-Backend](https://github.com/sametkayik/e-commerce-backend), and several other private repositories that I'm actively working on behind the scenes.
   
 
 - 🌱 I’m currently learning React  
